@@ -9,7 +9,7 @@ pipeline {
                 }
             }
             steps {
-                sh "echo I'm here"
+                sh "echo I\'m here"
             }
         }
     }
